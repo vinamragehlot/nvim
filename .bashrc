@@ -128,9 +128,9 @@ export LD_LIBRARY_PATH=${CUDNN_LIB_DIR}:${LD_LIBRARY_PATH}
 #--------------------Alias'
 #-----Launches
 alias n='nvim'
-alias np1='nvim 0_Learning/10_cuda/'
-alias np2='nvim 0_Learning/20_pytorch/'
-alias np3='nvim 0_Learning/30_MOOC/'
+alias np1='nvim ~/0_Learning/10_cuda/'
+alias np2='nvim ~/0_Learning/20_pytorch/'
+alias np3='nvim ~/0_Learning/30_MOOC/'
 alias ealias='nvim ~/.bashrc'
 alias refresh='source ~/.bashrc'
 alias cnvim='nvim ~/.config/nvim/'

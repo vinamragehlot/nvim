@@ -20,7 +20,5 @@ return {
 			dim_inactive = false,
 			transparent_mode = true,
 		},
-	},
-	{ "feline-nvim/feline.nvim", priority = 1000, lazy = false }, -- Ensure it's loaded at startup
-	{ "nvim-tree/nvim-web-devicons", opts = {} },
+	}	
 }
